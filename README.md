@@ -1,9 +1,9 @@
-# crm-course
+# crm-joaolgn
 CRM HTML
 
 Start by cloning this repo
 
-git clone https://github.com/skolo-online/crm-course.git 
+git clone git@github.com:joaolgn1985/crm-joaolgn.git
 
 Then install all the requirements 
 
